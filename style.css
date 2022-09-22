@@ -1,0 +1,28 @@
+body
+{
+  color: white;
+  background: rgb(206, 63, 206);
+}
+span
+{
+  font-size: 30px;
+}
+#cam , #r
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#r1 
+{
+  color: black;
+  font-size: 40px;
+}
+#e1
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 30px;
+  letter-spacing: 1px;
+}
